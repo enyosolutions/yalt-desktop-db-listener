@@ -31,7 +31,7 @@
 
 ## Installation
 
-1. **Download** the latest version of desktop-db-listener for your operating system from our [release page](#).
+1. **Download** the latest version of desktop-db-listener for your operating system from our [release page](https://github.com/enyosolutions/yalt-desktop-db-listener/releases).
 2. **Run the installer** and follow the prompts.
 3. During setup, you will be prompted to select your POS type (XD or Sage) and specify the local database connection parameters.
 4. Enter your Yalt API key (provided in your Yalt business dashboard).
